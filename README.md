@@ -1,2 +1,1 @@
-# kibana-dashboard-project
-This project contains interactive dashboards built using Elasticsearch and Kibana on real-world datasets including Students Performance and IPL cricket data. The dashboards provide insights through visualizations such as bar charts, pie charts, line charts, heat maps, and filters.
+This repository demonstrates data analysis and visualization using Elasticsearch and Kibana. Two datasets have been used: Students Performance dataset and IPL dataset. The project focuses on creating meaningful dashboards to analyze patterns, trends, and relationships in the data. Each dataset includes the original CSV file, exported Kibana dashboards, and documentation.
