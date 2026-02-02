@@ -1,0 +1,1 @@
+This folder contains IPL cricket data and the exported Kibana dashboard. The dashboard provides insights into team performance, toss decisions, match results, and seasonal trends using interactive visualizations.
