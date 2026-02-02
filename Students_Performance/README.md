@@ -1,0 +1,1 @@
+This dashboard analyzes student performance based on gender, parental education, lunch type, and test preparation course. It helps understand how different factors influence scores in math, reading, and writing subjects using interactive visualizations and filters.
